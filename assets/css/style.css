@@ -1,0 +1,19 @@
+p {
+    font-family: helvetica;
+    font-weight: bold;
+    
+    
+}
+
+#idtest{
+    font-family: Arial;
+    font-style: oblique;
+    color: blue;
+    
+    
+}
+.classtest{
+    color: red;
+    font-style: italic;
+    
+}
